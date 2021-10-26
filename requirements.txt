@@ -1,0 +1,9 @@
+# listado de librerias
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+
+gunicorn
+django-heroku
+django-cors-headers
